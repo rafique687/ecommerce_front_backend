@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "690a28f536b226f09dc5e71d"
+  },
+  "categoryid": {
+    "$oid": "690a289436b226f09dc5e70f"
+  },
+  "subcategory": "Simple",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-11-04T16:25:25.319Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:25:25.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690a290036b226f09dc5e71f"
+  },
+  "categoryid": {
+    "$oid": "690a289436b226f09dc5e70f"
+  },
+  "subcategory": "Heavy",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-11-04T16:25:36.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:25:36.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690a290a36b226f09dc5e721"
+  },
+  "categoryid": {
+    "$oid": "690a28a136b226f09dc5e711"
+  },
+  "subcategory": "Normal",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-11-04T16:25:46.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:25:46.606Z"
+  },
+  "__v": 0
+}]

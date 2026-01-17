@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "690a289436b226f09dc5e70f"
+  },
+  "name": "Cotton suit",
+  "createdAt": {
+    "$date": "2025-11-04T16:23:48.126Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:23:48.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690a28a136b226f09dc5e711"
+  },
+  "name": "Kashmiri suit",
+  "createdAt": {
+    "$date": "2025-11-04T16:24:01.671Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:24:01.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690a28b036b226f09dc5e713"
+  },
+  "name": "Barmeri Suit",
+  "createdAt": {
+    "$date": "2025-11-04T16:24:16.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:24:16.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690a28c136b226f09dc5e715"
+  },
+  "name": "Chikan Kaari",
+  "createdAt": {
+    "$date": "2025-11-04T16:24:33.056Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:24:33.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690a28cc36b226f09dc5e717"
+  },
+  "name": "Patiyala",
+  "createdAt": {
+    "$date": "2025-11-04T16:24:44.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:24:44.039Z"
+  },
+  "__v": 0
+}]

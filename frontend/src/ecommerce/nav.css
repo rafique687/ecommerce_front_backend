@@ -1,0 +1,39 @@
+/* Navigation container */
+.nav-menu {
+  display: flex;
+  justify-content: center; /* Center items */
+  gap: 25px; /* Space between items */
+  list-style: none; /* Remove bullets */
+  padding: 15px 20px;
+  background: #cc95c7; /* Dark background */
+  border-radius: 10px;
+}
+
+/* Nav links */
+.nav-menu li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-menu li a:hover {
+  color: #f5c542; /* Gold highlight on hover */
+}
+
+/* Clear cart button */
+.clear-btn {
+  background: #dc3545; /* red */
+  border: none;
+  padding: 8px 14px;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.clear-btn:hover {
+  background: #a71d2a; /* darker red */
+}

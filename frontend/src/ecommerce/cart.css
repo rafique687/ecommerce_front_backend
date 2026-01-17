@@ -1,0 +1,135 @@
+.cart-wrapper {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.empty-cart {
+  text-align: center;
+  color: #555;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 15px;
+  background: #fafafa;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.cart-left {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.cart-img {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  background: #fff;
+}
+
+.cart-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-model {
+  font-size: 18px;
+  margin: 0;
+  color: #333;
+}
+
+.cart-price {
+  font-size: 16px;
+  color: #666;
+}
+
+.cart-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.qty-btn {
+  width: 35px;
+  height: 35px;
+  border: none;
+  background: #007bff;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.qty-btn:hover {
+  background: #0056b3;
+}
+
+.qty {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+.grand-total {
+  margin-top: 25px;
+  padding: 15px;
+  text-align: right;
+  font-size: 20px;
+  font-weight: bold;
+  border-top: 2px solid #ddd;
+  color: #222;
+}
+
+.remove-btn {
+  margin-left: 15px;
+  padding: 8px 12px;
+  border: none;
+  background: #bb2222; /* red */
+  color: white;
+  font-size: 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.remove-btn:hover {
+  background: #a71d2a; /* darker red */
+}
+
+.brand-name {
+  font-family: 'Playfair Display', serif; /* Elegant font */
+  font-size: 48px;
+  font-weight: bold;
+  color: #fff; /* Dark gray for a premium look */
+  text-align: center;
+  letter-spacing: 3px; /* Space between letters */
+  text-transform: uppercase; /* ALL CAPS */
+  margin: 40px 0;
+  position: relative;
+}
+
+/* Add a golden underline */
+.brand-name::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: linear-gradient(to right, #c49b63, #e6be8a); /* gold gradient */
+  margin: 10px auto 0;
+  border-radius: 2px;
+  
+}
+
+

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "690a29f936b226f09dc5e728"
+  },
+  "categoryid": "690a289436b226f09dc5e70f",
+  "subcategory_id": {
+    "$oid": "690a28f536b226f09dc5e71d"
+  },
+  "image": "http://127.0.0.1:5000/uploads/1762273785542.jpg",
+  "productname": "Slim fit",
+  "description": "Good and slim fit",
+  "product_size": "S",
+  "product_color": "red",
+  "product_stock": 20,
+  "tieredPricing": [],
+  "price": 2300,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-04T16:29:45.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-04T16:29:45.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692289d31558009a9ae3a6ec"
+  },
+  "categoryid": "690a289436b226f09dc5e70f",
+  "subcategory_id": {
+    "$oid": "690a28f536b226f09dc5e71d"
+  },
+  "image": "http://127.0.0.1:5000/uploads/1763871187453.jpg",
+  "productname": "new brand",
+  "description": "description",
+  "product_size": "XL",
+  "product_color": "blue",
+  "product_stock": 20,
+  "tieredPricing": [],
+  "price": 300,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-23T04:13:07.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T04:13:07.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69228a431558009a9ae3a6f0"
+  },
+  "categoryid": "690a28a136b226f09dc5e711",
+  "subcategory_id": {
+    "$oid": "690a290a36b226f09dc5e721"
+  },
+  "image": "http://127.0.0.1:5000/uploads/1763871299295.jpg",
+  "productname": "Light Pink",
+  "description": "Light Pink suit in cotton ",
+  "product_size": "XL",
+  "product_color": "red",
+  "product_stock": 60,
+  "tieredPricing": [],
+  "price": 500,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-23T04:14:59.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T04:14:59.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69228ae61558009a9ae3a6f6"
+  },
+  "categoryid": "690a289436b226f09dc5e70f",
+  "subcategory_id": {
+    "$oid": "690a290036b226f09dc5e71f"
+  },
+  "image": "http://127.0.0.1:5000/uploads/1763871462818.jpg",
+  "productname": "Black Kurti",
+  "description": "Punjani Kurti",
+  "product_size": "M",
+  "product_color": "black",
+  "product_stock": 10,
+  "tieredPricing": [],
+  "price": 500,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-23T04:17:42.823Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T04:17:42.823Z"
+  },
+  "__v": 0
+}]
